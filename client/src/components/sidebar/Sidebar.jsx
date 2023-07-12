@@ -20,12 +20,13 @@ export default function Sidebar() {
 src="https://www.wallpapertip.com/wmimgs/23-236943_us-wallpaper-for-website.jpg"          alt=""
         />
         <p>
-          Laboris sunt aute cupidatat velit magna velit ullamco dolore mollit
-          amet ex esse.Sunt eu ut nostrud id quis proident.
+        Welcome to our blog page, where knowledge and inspiration meet in the realm of words. Here, we invite you to embark on a journey of discovery
+        , as we explore a wide range of topics, from travel and culture to technology and personal growth. 
+        You can also contribute your views and post blogs.
         </p>
       </div>
       <div className="sidebarItem">
-        <span className="sidebarTitle">CATEGORIES</span>
+        {/* <span className="sidebarTitle">CATEGORIES</span> */}
         <ul className="sidebarList">
           {cats.map((c)=>(
             <Link to={`/?cat=${c.name}`} className="link" >
