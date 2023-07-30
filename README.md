@@ -36,7 +36,7 @@ Node.js: A JavaScript runtime environment to execute server-side code.
 
 bcrypt: A library for securely hashing passwords.
 
-#React Libraries:
+# React Libraries:
 
 React-router: For handling routing in the React application.
 
@@ -46,7 +46,7 @@ React-bootstrap: For styling and UI components.
 
 React-icons: For including icons in the application.
 
-#Usage
+# Usage
 
 Register: Users can create a new account by providing their email and a secure password.
 
@@ -60,7 +60,7 @@ Edit and Delete: Users can edit or delete their blog posts.
 
 User Profile: Each user has a profile page displaying their blog posts and other information.
 
-#Contributing
+# Contributing
 
 If you wish to contribute to this project, follow these steps:
 
@@ -75,4 +75,4 @@ Push to the branch
 Submit a pull request describing your changes.
 
 
-Thank you for using our MERN blog application! If you have any questions or feedback, please don't hesitate to contact us. Happy blogging! 🚀
+Thank you for using my MERN blog application! If you have any questions or feedback, please don't hesitate to contact me. Happy blogging!
