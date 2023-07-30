@@ -54,9 +54,9 @@ Login: Registered users can log in with their credentials.
 
 View Blogs: Users can browse and read blog posts from various authors once logged in.
 
-Create a Blog: Logged-in users can create their own blog posts and add categories and tags.
+Create a Blog: Logged-in users can create blog posts and add categories and tags.
 
-Edit and Delete: Users can edit or delete their own blog posts.
+Edit and Delete: Users can edit or delete their blog posts.
 
 User Profile: Each user has a profile page displaying their blog posts and other information.
 
@@ -66,11 +66,11 @@ If you wish to contribute to this project, follow these steps:
 
 Fork the repository.
 
-Create a new branch: git checkout -b feature/your-feature-name.
+Create a new branch: git checkout.
 
-Make and commit your changes: git commit -m "Add some feature".
+Make and commit your changes: git commit -m "Add some feature."
 
-Push to the branch: git push origin feature/your-feature-name.
+Push to the branch
 
 Submit a pull request describing your changes.
 
