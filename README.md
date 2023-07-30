@@ -14,7 +14,7 @@ Contributing
 
 # Features
 
-User Authentication: Users can register, log in, and log out securely using bcrypt for password hashing and JWT (JSON Web Tokens) for authentication.
+User Authentication: Users can register, log in, and log out securely using bcrypt for password hashing for authentication.
 
 Blog Posts: Users can create, edit, and delete their blog posts. They can also view posts created by other users.
 
