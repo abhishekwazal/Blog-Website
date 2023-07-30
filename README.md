@@ -2,8 +2,6 @@ This repository contains a blog application built using the MERN (MongoDB, Expre
 
 # Table of Contents -
 
-Installation
-
 Features
 
 Technologies Used
