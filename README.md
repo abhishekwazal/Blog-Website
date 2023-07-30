@@ -14,7 +14,7 @@ Contributing
 
 # Features
 
-User Authentication: Users can register, log in, and log out securely using bcrypt for password hashing for authentication.
+User Authentication: Users can securely register, log in, and log out as their password is kept safe using bcrypt for password hashing.
 
 Blog Posts: Users can create, edit, and delete their blog posts. They can also view posts created by other users.
 
