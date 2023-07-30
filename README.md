@@ -58,10 +58,6 @@ Create a Blog: Logged-in users can create their own blog posts and add categorie
 
 Edit and Delete: Users can edit or delete their own blog posts.
 
-Comment: Users can leave comments on blog posts.
-
-Search: Users can search for specific blog posts using keywords, categories, or tags.
-
 User Profile: Each user has a profile page displaying their blog posts and other information.
 
 #Contributing
