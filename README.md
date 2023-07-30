@@ -24,10 +24,6 @@ Categories and Tags: Users can categorize their blog posts and add tags to make 
 
 User Profiles: Each user has a profile page displaying their blog posts and other information.
 
-Search Functionality: Users can search for blog posts using keywords, categories, or tags.
-
-Responsive Design: The application is designed to be mobile-friendly and accessible on various devices.
-
 # Technologies Used
 
 MongoDB: A NoSQL database for storing blog posts, user information, and comments.
