@@ -11,38 +11,11 @@ Technologies Used
 Usage
 
 Contributing
+
 License
-Installation
-Follow these steps to set up the blog application locally:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/mern-blog-app.git
-cd mern-blog-app
-Install server dependencies:
-bash
-Copy code
-cd server
-npm install
-Install client dependencies:
-bash
-Copy code
-cd ../client
-npm install
-Create a .env file in the server directory to store environment variables:
-plaintext
-Copy code
-MONGO_URI=your_mongodb_connection_string
-SECRET_KEY=your_secret_key_for_jwt
-Run the application:
-bash
-Copy code
-cd ../server
-npm start
-The server will start on http://localhost:5000, and the client will run on http://localhost:3000.
+# Features
 
-Features
 User Authentication: Users can register, login, and logout securely using bcrypt for password hashing and JWT (JSON Web Tokens) for authentication.
 
 Blog Posts: Users can create, edit, and delete their blog posts. They can also view posts created by other users.
