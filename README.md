@@ -1,6 +1,6 @@
 This repository contains a blog application built using the MERN (MongoDB, Express, React, Node.js) stack. The application is enhanced with the bcrypt library for secure password hashing and React libraries for efficient frontend development. This blog application allows users to read, create, update, and delete blog posts.
 
-Table of Contents -
+# Table of Contents -
 
 Installation
 Features
